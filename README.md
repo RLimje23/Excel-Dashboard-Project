@@ -12,3 +12,6 @@ A Textile Store wants to better understand its sales performance and operational
 - Line chart for Sales per month.
 - A column chart for the Top 10 states in terms of sales.
 - Pie Chart for order status distribution and comparison of sales through various channels.
+
+## Dashboard:
+![Screenshot 2025-04-20 191720](https://github.com/user-attachments/assets/50c3ed15-3501-4813-9737-07e2c72b5ede)
